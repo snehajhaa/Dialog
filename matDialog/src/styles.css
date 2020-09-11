@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+.mat-dialog-title {
+    margin: 0 0 20px;
+    display: block;
+    background-color:#de7a30;
+    margin:0px;
+    border-radius: 20px;
+    padding-top: 0px;
+    margin-right:-24px;
+    margin-left:-24px;
+    padding:20px;
+    color:#fff;
+
+
+}
